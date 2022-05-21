@@ -20,5 +20,5 @@ public class Database : DbContext, IDatabase
         SaveChanges();
     }
 
-    public DbSet<Person> Persons { get; set; }
+    public virtual DbSet<Person> Persons { get; set; }
 }
