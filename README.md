@@ -1,3 +1,4 @@
+[![.NET](https://github.com/vanarkel/Clean-Architecture-Example/actions/workflows/dotnet.yml/badge.svg)](https://github.com/vanarkel/Clean-Architecture-Example/actions/workflows/dotnet.yml)
 # Clean Architecture
 To demonstrate the Clean Architecture, we've adapted one of our most common three layer projects. Here we pass data from the Data Access layer to the Presentation Layer.
 
