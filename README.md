@@ -11,7 +11,6 @@ In this example Persistence is the implementation of a Infrastructure project. F
 classDiagram
 	Application-->Domain
 	Persistance-->Application
-	Persistance-->Domain
 	Presentation-->Application
 	Presentation-->Persistance
 	
